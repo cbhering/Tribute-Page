@@ -1,0 +1,50 @@
+ body {
+  font-family: arial, Helvetica;
+  color: black;
+  text-align: center;
+  background: #F0FFFF;
+}
+ #title {
+  font-family: Helvetica;
+  font-size: 40px;
+  color: blue;
+}
+#main {
+  margin: 40px auto;
+  padding: 20px;
+  border: 10px solid;
+  border-radius:5px;
+  background:#eee;
+}
+#image {
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div {
+  margin: 1px;
+  margin-top: 20px;
+  width: 100%;
+  background: #F0F8FF;
+}
+#img-caption {
+  margin: 10px;
+  font-size: 15px;
+}
+#headline {
+  margin-top: 30px;
+  text-align: center;
+}
+ ul {
+  max-width: 550px;
+  margin: 0px auto;
+  text-align: left;
+  list-style: inside;
+}
+ li {
+  margin: 15px;
+}
+ blockquote {
+  font-style: italic;
+}  
